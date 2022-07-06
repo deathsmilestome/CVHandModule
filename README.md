@@ -6,4 +6,4 @@ Some tips in code comments.
 
 Here is a map.
 
-![dots](https://user-images.githubusercontent.com/80523414/177592014-5f8f0c62-735e-4dbd-bbbd-1647d65e3945.jpg)
+![image](https://user-images.githubusercontent.com/80523414/177600292-ba4675db-aa86-4f46-8228-3f1b59bae949.png)
